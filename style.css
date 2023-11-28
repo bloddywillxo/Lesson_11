@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+main, header{
+	margin: 5vh 10vh;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+}                                        
+#cart-button{
+	background-color: none;
+	border: none;
+	border-radius: 50%;
+	padding: 5px;
+	border: 1px solid black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#cart-button img{
+	max-width: 32px;
+	max-height: 32px;
+}
+#cart-button:hover{
+	background-color: lightblue;
+	cursor: pointer;
+}
