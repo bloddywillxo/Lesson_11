@@ -25,22 +25,21 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "price": 92,
-      "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
-    },
-    {
-      "id": 2,
       "name": "Chisinau de seara",
       "description": "Ciocolata cu prune",
       "price": 92,
-      "author_id": 2,
+      "author_id": 1,
       "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaoNA34D7Uj4VfI-01L5g8jgOd6aj-sGRTXkjKBl-VA&s"
     },
     {
-   
+      "id": 2,
+      "name": "Arduino UNO",
+      "description": "Brand new and high quality.",
+      "price": 180,
+      "author_id": 3,
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+    },
+    {
       "id": 3,
       "name": "ESP8266 5V",
       "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
