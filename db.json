@@ -33,11 +33,11 @@
     },
     {
       "id": 2,
-      "name": "Arduino UNO",
-      "description": "Brand new and high quality.",
+      "name": "Percy Jackson",
+      "description": The first book series in his Camp Half-Blood Chronicles, the novels are set in a world with the Greek gods in the 21st century. The series follows the protagonist Percy Jackson, a young demigod, who must prevent the Titans, led by Kronos, from destroying the world."",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://m.media-amazon.com/images/I/91LptBSFxQL._AC_UF1000,1000_QL80_.jpg"
     },
     {
       "id": 3,
