@@ -33,13 +33,14 @@
     },
     {
       "id": 2,
-      "name": "Percy Jackson and The Olypians",
-      "description": "The book is about a boy who must prevent the Tirans from distroyng the world",
-      "price": 10,
-      "author_id": 3,
-      "photo_url": "https://m.media-amazon.com/images/I/91LptBSFxQL._AC_UF1000,1000_QL80_.jpg"
+      "name": "Chisinau de seara",
+      "description": "Ciocolata cu prune",
+      "price": 92,
+      "author_id": 2,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaoNA34D7Uj4VfI-01L5g8jgOd6aj-sGRTXkjKBl-VA&s"
     },
     {
+   
       "id": 3,
       "name": "ESP8266 5V",
       "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
