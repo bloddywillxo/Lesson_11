@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
+      "name": "Shadow and Bone",
+      "description": "About a girl that has superpowers and have to save her world from the dark",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://m.media-amazon.com/images/I/816JhuO1cyS._AC_UF1000,1000_QL80_.jpg"
     },
     {
       "id": 5,
