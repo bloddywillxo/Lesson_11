@@ -27,7 +27,7 @@
       "id": 1,
       "name": "Percy Jackson and The Olympians",
       "description": "The book is about a boy who must prevent the Titans from distroying the world",
-      "price": 92,
+      "price": 7,
       "author_id": 1,
       "photo_url": "https://m.media-amazon.com/images/I/91LptBSFxQL._AC_UF1000,1000_QL80_.jpg"
     },
@@ -35,7 +35,7 @@
       "id": 2,
       "name": "Twilight",
       "description": "About Bella Swan that fell in love with a vampire and tell us about how powerful is love",
-      "price": 180,
+      "price": 10,
       "author_id": 3,
       "photo_url":"https://images-na.ssl-images-amazon.com/images/I/71gfFjhxYgL.jpg"
     },
@@ -43,7 +43,7 @@
       "id": 3,
       "name": "Harry Potter",
       "description": "A book about wizards and magic, in this book you will read about Harry Potter's adventures",
-      "price": 300,
+      "price": 15,
       "author_id": 2,
       "photo_url": "https://m.media-amazon.com/images/I/81Fyh2mrw4L._AC_UF894,1000_QL80_.jpg"
     },
@@ -51,7 +51,7 @@
       "id": 4,
       "name": "Shadow and Bone",
       "description": "About a girl that has superpowers and have to save her world from the dark",
-      "price": 92,
+      "price": 3,
       "author_id": 1,
       "photo_url": "https://m.media-amazon.com/images/I/816JhuO1cyS._AC_UF1000,1000_QL80_.jpg"
     },
@@ -59,7 +59,7 @@
       "id": 5,
       "name": "Carnaval",
       "description": "Two sisters who escape their ruthless father when they enter the dangerous intrigue of a legendary game.",
-      "price": 180,
+      "price": 12,
       "author_id": 3,
       "photo_url":"https://www.dymocks.com.au/Pages/ImageHandler.ashx?q=9781473629165&w=&h=570"
     },
@@ -67,7 +67,7 @@
       "id": 6,
       "name": "The cruel prince",
       "description": "The story was about royal politics, political intrigue, trust, betrayal, family drama, magic.",
-      "price": 300,
+      "price": 16,
       "author_id": 1,
       "photo_url":"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NQgREe6mL._AC_UF1000,1000_QL80_.jpg"
     }
